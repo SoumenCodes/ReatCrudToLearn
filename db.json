@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": "1"
+    },
+    {
+      "title": "new546456",
+      "view": "",
+      "id": "TEk3JXr"
+    },
+    {
+      "title": "cnnn",
+      "view": "",
+      "id": "KBpDSEI"
+    },
+    {
+      "title": "cnd",
+      "view": "",
+      "id": "LeYpiSY"
+    },
+    {
+      "title": "cndx",
+      "view": "",
+      "id": "deABQVJ"
+    },
+    {
+      "title": "new",
+      "view": "",
+      "id": "Kkt-XDe"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
